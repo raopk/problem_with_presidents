@@ -1,6 +1,6 @@
-# A Problem with Presidents; a data to information challenge.
 
-- Author: Christopher P. Barnes
+# This repo contains my response to the Problem with Presidents data to information challenge.
+By Christopher P. Barnes
 - Date: September 28, 2021
 
 ## Problem Statement:
